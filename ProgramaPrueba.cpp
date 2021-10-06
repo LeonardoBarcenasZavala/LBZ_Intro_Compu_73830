@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib>
+/* Solo es un comentario*/
 
 int var1=5, var2=8, var3;
 
